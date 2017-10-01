@@ -86,10 +86,7 @@ todo_include_todos = False
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-# TODO: This seems to not build the RTD theme when using ReadTheDocs. Builds fine locally.
-#       Maybe this is an issue with the beta builds of the RTD Sphinx theme?
-#
-#html_theme = 'sphinx_rtd_theme'
+html_theme = 'default'
 #html_theme_path = ["_themes",]
 
 # Theme options are theme-specific and customize the look and feel of a theme
